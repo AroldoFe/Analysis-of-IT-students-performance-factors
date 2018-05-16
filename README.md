@@ -6,15 +6,6 @@ We will be using knowledges of:
 - Statistical data visualization
 - Data visualization with Seaborn
 
-## Authorship
-Developed by Aroldo Felix (junioraroldo37@gmail.com), George Franklin (georgefranklinbti@gmail.com) and Julia Ferreira (juliafsouzag@gmail.com).
-
-## Links
-http://dados.ufrn.br/
-http://dados.ufrn.br/dataset/turmas
-
-## Youtube Video
-
 ## Libraries
 - Numpy
 - Pandas
@@ -32,3 +23,16 @@ The project was splitted in some sessions:
 4. Merge and concatenation of the dataframes
 5. Study
 6. Conclusion
+
+## Authorship
+Developed by Aroldo Felix (junioraroldo37@gmail.com), George Franklin (georgefranklinbti@gmail.com) and Julia Ferreira (juliafsouzag@gmail.com).
+
+## Links
+- http://dados.ufrn.br/
+- http://seaborn.pydata.org/tutorial.html
+- http://seaborn.pydata.org/generated/seaborn.FacetGrid.html?highlight=facet%20grid#seaborn.FacetGrid
+- https://matplotlib.org/api/pyplot_summary.html
+- https://pandas.pydata.org/pandas-docs/stable/generated/pandas.pivot_table.html
+- https://docs.scipy.org/doc/numpy-1.13.0/reference/routines.math.html
+
+## Youtube Video
