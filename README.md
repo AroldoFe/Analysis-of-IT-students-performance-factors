@@ -36,3 +36,4 @@ Developed by Aroldo Felix (junioraroldo37@gmail.com), George Franklin (georgefra
 - https://docs.scipy.org/doc/numpy-1.13.0/reference/routines.math.html
 
 ## Youtube Video
+https://youtu.be/uyWZwlhrBKY
